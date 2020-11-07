@@ -13,6 +13,7 @@
 		85A297C22549994500098978 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85A297C02549994500098978 /* Main.storyboard */; };
 		85A297C42549994700098978 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85A297C32549994700098978 /* Assets.xcassets */; };
 		85A297C72549994700098978 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85A297C52549994700098978 /* LaunchScreen.storyboard */; };
+		85FDB90C2551B64300EAE712 /* StatisticsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FDB90B2551B64300EAE712 /* StatisticsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		85A297C32549994700098978 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85A297C62549994700098978 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		85A297C82549994700098978 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85FDB90B2551B64300EAE712 /* StatisticsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				85A297C32549994700098978 /* Assets.xcassets */,
 				85A297C52549994700098978 /* LaunchScreen.storyboard */,
 				85A297C82549994700098978 /* Info.plist */,
+				85FDB90B2551B64300EAE712 /* StatisticsViewController.swift */,
 			);
 			path = TwoIntegersAddingAssignment;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				85A297BF2549994500098978 /* ViewController.swift in Sources */,
 				85A297BB2549994500098978 /* AppDelegate.swift in Sources */,
 				85A297BD2549994500098978 /* SceneDelegate.swift in Sources */,
+				85FDB90C2551B64300EAE712 /* StatisticsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A55TAX8PPR;
 				INFOPLIST_FILE = TwoIntegersAddingAssignment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A55TAX8PPR;
 				INFOPLIST_FILE = TwoIntegersAddingAssignment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
